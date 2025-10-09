@@ -83,7 +83,7 @@
 ### 📫 Contact Me
 
 📧 **Email:** [fatimaa.cheemaa24@gmail.com](mailto:fatimaa.cheemaa24@gmail.com)  
-🔗 **LinkedIn:** *[Add your LinkedIn profile here]*  
+🔗 **LinkedIn:** [Fatima Sohail](https://www.linkedin.com/in/fatima-sohail-206089389) 
 📁 **Portfolio:** *[Add your portfolio/Notion/Netlify page here]*  
 
 ---
