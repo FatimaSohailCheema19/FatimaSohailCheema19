@@ -84,7 +84,8 @@
 
 📧 **Email:** [fatimaa.cheemaa24@gmail.com](mailto:fatimaa.cheemaa24@gmail.com)  
 🔗 **LinkedIn:** [Fatima Sohail](https://www.linkedin.com/in/fatima-sohail-206089389) 
-📁 **Portfolio:** [View My Portfolio](https://FatimaSohailCheema19.github.io/Portfolio/fatima_portfolio.html)  
+📁 **Portfolio:** [View My Portfolio](https://fatimasohailcheema19.github.io/Portfolio/
+)  
 
 ---
 
