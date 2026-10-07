@@ -1,287 +1,84 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:134E4A,100:39D353&height=180&section=header&text=Fatima%20Sohail&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=DATA%20SCIENCE%20%7C%20ANALYTICS%20%7C%20VISUALIZATION&descSize=13&descAlignY=60" alt="Fatima Sohail — Data Science, Analytics and Visualization" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=39D353&center=true&vCenter=true&width=650&lines=Hello%2C+world.+I'm+Fatima.;Exploring+data%2C+one+question+at+a+time.;Python+%E2%80%A2+R+%E2%80%A2+Interactive+Analytics" alt="Hello, world. I'm Fatima. Exploring data, one question at a time." />
-
-<br><br>
-
-<a href="https://github.com/FatimaSohailCheema19?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_PROJECTS-238636?style=for-the-badge&logo=github&logoColor=white" alt="View projects" />
-</a>
-<a href="#-technical-toolkit">
-<img src="https://img.shields.io/badge/TECH_STACK-161B22?style=for-the-badge&logo=stackshare&logoColor=39D353" alt="Technical toolkit" />
-</a>
-<a href="#-contribution-calendar">
-<img src="https://img.shields.io/badge/CONTRIBUTIONS-161B22?style=for-the-badge&logo=github&logoColor=39D353" alt="Contribution calendar" />
-</a>
-
-</div>
-
-<br>
-
-## `~/fatima/profile`
-
-<table>
-<tr>
-<td width="38%" align="center">
-
-<pre>
-       .::::::::::::.
-     .::::::::::::::::.
-    ::::::::::::::::::::
-   :::::::........:::::::
-   ::::::..........::::::
-   :::::..:::..:::..:::::
-   :::::............::::
-   :::::.....::.....::::
-   :::::...:----:...::::
-   ::::::..........:::::
-   :::::::........::::::
-   ::::::::......:::::::
-  ::::::::::....:::::::::
- :::::::::::::::::::::::::
-:::::::::::::::::::::::::::
-:::::::::::::::::::::::::::
-</pre>
-
-<code>LEARNING · ANALYZING · BUILDING</code>
-
-</td>
-<td width="62%">
-
-<h3>Fatima Sohail</h3>
-
-<code>ROLE</code><br>
-BS Data Science Student
-
-<br><br>
-
-<code>FOCUS</code><br>
-Data Analysis · Data Visualization<br>
-Interactive Applications
-
-<br><br>
-
-<code>CORE TOOLS</code><br>
-Python · R · Jupyter · Shiny
-
-<br><br>
-
-<code>CURRENT LEARNING</code><br>
-Statistics · Machine Learning
-
-<br><br>
-
-<code>APPROACH</code><br>
-Ask questions. Explore evidence.<br>
-Explain what the data says.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## ✦ About me
-
-I'm **Fatima Sohail**, a **BS Data Science student** interested in finding useful patterns in data and making them easier to understand.
-
-My work includes **data cleaning, exploratory analysis, analytical notebooks, and interactive R Shiny applications**. I enjoy both sides of a project: investigating the data and creating a clear way to communicate the results.
-
-- **Analyze:** explore datasets and investigate patterns.
-- **Build:** turn analysis into interactive visual experiences.
-- **Explain:** document methods, findings, and limitations.
-- **Learn:** strengthen my foundations in statistics and machine learning.
-
-<br>
-
-## ✦ Featured work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🛒 E-commerce Data Analysis</h3>
-
-Exploring Pakistan's e-commerce data through data cleaning, exploratory analysis, and statistical findings.
-
-<br>
-
-<b>Project materials</b><br>
-Analysis notebook · Report · Visualizations
-
-<br><br>
-
-<code>DATA CLEANING</code>
-<code>EDA</code>
-<code>ANALYSIS</code>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🎬 Movie Browser App</h3>
-
-An interactive explorer for movie data from 1970–2014, built with R Shiny.
-
-<br>
-
-<b>Key features</b><br>
-Selectable axes · Category-based colors · Adjustable point size and transparency · Reactive plots
-
-<br><br>
-
-<code>R</code>
-<code>SHINY</code>
-<code>GGPLOT2</code>
-<code>DPLYR</code>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🧹 Data Cleaning App</h3>
-
-An R Shiny application focused on data cleaning through an interactive interface.
-
-<br>
-
-<b>Project focus</b><br>
-Data preparation · Interactive workflows
-
-<br><br>
-
-<code>R</code>
-<code>SHINY</code>
-<code>DATA PREPARATION</code>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🧠 Machine Learning Practice</h3>
-
-Academic notebooks and reports documenting my machine learning coursework and practical learning.
-
-<br>
-
-<b>Project focus</b><br>
-Applied concepts · Analytical reasoning · Documentation
-
-<br><br>
-
-<code>PYTHON</code>
-<code>JUPYTER</code>
-<code>MACHINE LEARNING</code>
-
-</td>
-</tr>
-</table>
-
 <p align="center">
-<a href="https://github.com/FatimaSohailCheema19?tab=repositories">
-<b>Explore my repositories →</b>
-</a>
+  <img src="./assets/profile-header.svg" width="100%" alt="Fatima Sohail — Data Science student working with machine learning, analytics and visualization" />
 </p>
 
-<br>
+<p align="center">
+  <a href="mailto:fatimaa.cheemaa24@gmail.com"><img src="https://img.shields.io/badge/Email-21262D?style=for-the-badge&logo=gmail&logoColor=79C0FF" alt="Email Fatima" /></a>
+  <a href="https://github.com/FatimaSohailCheema19?tab=repositories"><img src="https://img.shields.io/badge/Projects-21262D?style=for-the-badge&logo=github&logoColor=C5A5EE" alt="Browse repositories" /></a>
+</p>
 
-## ✦ Technical toolkit
+### A little about me
 
-<div align="center">
+I'm a **BS Data Science student** working on machine learning, data analysis, and applications that put both into practice. My recent projects range from implementing classifiers from scratch to exploring medical image classification and processing taxi-trip data with Spark.
 
-<img src="https://skillicons.dev/icons?i=python,r,git,github,vscode&theme=dark&perline=5" alt="Python, R, Git, GitHub and VS Code" />
+I enjoy understanding how a model works, checking where it struggles, and explaining the results through notebooks, reports, and visualizations. I'm open to **internships and project opportunities** in data science and analytics.
 
-<br><br>
+### Selected projects
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+| Project | What I worked on |
+| :--- | :--- |
+| [**Motor Fault Diagnosis**](https://github.com/FatimaSohailCheema19/Motor-Fault-Diagnosis-Machine-Learning) | From-scratch K-NN, PCA, Logistic Regression, Naive Bayes, and SVM for motor current-signature classification. |
+| [**Cervical Cytology Classification**](https://github.com/FatimaSohailCheema19/EfficientNet-GAT-Fuzzy-Cervical-Cytology) | Research implementation combining EfficientNet-B0, graph attention, and a fuzzy confidence head for five-class classification. |
+| [**NYC Taxi Trip Analytics**](https://github.com/FatimaSohailCheema19/NYC-Taxi-Trip-Analytics-Apache-Spark) | Cleaning and analyzing **2.96 million** trip records with Spark, SQL, window functions, and caching experiments in local mode. |
+| [**Customer Segmentation**](https://github.com/FatimaSohailCheema19/Pakistan-Ecommerce-Customer-Segmentation) | RFM feature engineering and K-Means clustering to study purchasing behavior in Pakistan's e-commerce data. |
+| [**Parallel Fraud Detection**](https://github.com/FatimaSohailCheema19/Hybrid-Parallel-Fraud-Detection) | Comparing serial, OpenMP, CUDA, and hybrid K-NN implementations on **500,000 synthetic transactions**. |
+| [**R Shiny Data Cleaning App**](https://github.com/FatimaSohailCheema19/RShiny_DataCleaning_App) | CSV uploads, column-name cleanup, missing-value filtering, previews, and cleaned-data export. |
 
-<br>
+<details>
+<summary><b>More projects</b></summary>
 
-<img src="https://img.shields.io/badge/Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="Shiny" />
-<img src="https://img.shields.io/badge/ggplot2-238636?style=for-the-badge&logo=r&logoColor=white" alt="ggplot2" />
-<img src="https://img.shields.io/badge/dplyr-161B22?style=for-the-badge&logo=r&logoColor=white" alt="dplyr" />
+- [Pakistan E-commerce Data Visualization](https://github.com/FatimaSohailCheema19/Pakistan-Ecommerce-Data-Visualization)
+- [Movie Data Visualizer · R Shiny](https://github.com/FatimaSohailCheema19/RShiny_Movies_Visualizer)
+- [MediScan AI](https://github.com/FatimaSohailCheema19/mediscan-ai)
+- [RescueSync Emergency Response Platform](https://github.com/FatimaSohailCheema19/RescueSync-Emergency-Response-Platform)
+- [Tour Management Data Warehouse](https://github.com/FatimaSohailCheema19/Tour-Management-Data-Warehouse)
+- [Pizza Accessibility · QGIS](https://github.com/FatimaSohailCheema19/Pizza-Accessibility-Spatial-Analysis-QGIS)
 
-</div>
+</details>
 
-<br>
+### Tools I use
 
-## ✦ My analytical workflow
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,java,postgres,react,git,docker&theme=dark&perline=8" alt="Python, R, C++, Java, PostgreSQL, React, Git and Docker" />
+</p>
 
-| Define | Prepare | Explore | Communicate |
-| :--- | :--- | :--- | :--- |
-| Ask a focused question. | Inspect and clean the data. | Investigate patterns and relationships. | Present findings and limitations clearly. |
+| Area | Tools and methods |
+| :--- | :--- |
+| Data analysis | Pandas · NumPy · Matplotlib · Seaborn · R · ggplot2 |
+| Machine learning | Classification · Clustering · PCA · Model evaluation |
+| Deep learning | EfficientNet · Graph Attention Networks · Grad-CAM |
+| Data systems | SQL · PostgreSQL · Apache Spark · Hadoop |
+| Applications | R Shiny · React · Java |
+| Parallel computing | C++ · OpenMP · CUDA |
 
-<br>
+### GitHub stats
 
-## ✦ GitHub statistics
+<p align="center">
+  <img width="57%" src="https://github-readme-stats.vercel.app/api?username=FatimaSohailCheema19&show_icons=true&hide_rank=true&bg_color=0D1117&title_color=79C0FF&icon_color=C5A5EE&text_color=C9D1D9&border_color=30363D&border_radius=8" alt="Fatima's GitHub statistics" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaSohailCheema19&layout=compact&langs_count=6&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9&border_color=30363D&border_radius=8" alt="Languages in Fatima's public repositories" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img width="72%" src="https://streak-stats.demolab.com?user=FatimaSohailCheema19&background=0D1117&border=30363D&stroke=30363D&ring=C5A5EE&fire=79C0FF&currStreakNum=F0F6FC&sideNums=79C0FF&currStreakLabel=C5A5EE&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=FatimaSohailCheema19&show_icons=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9&border_radius=12" alt="Fatima's GitHub statistics" />
+### Contribution calendar
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaSohailCheema19&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&border_radius=12" alt="Languages used in public repositories" />
+<p align="center">
+  <a href="https://github.com/FatimaSohailCheema19?tab=overview">
+    <img src="https://ghchart.rshah.org/FatimaSohailCheema19" width="100%" alt="Daily GitHub contributions — green squares indicate contribution activity" />
+  </a>
+</p>
 
-<br><br>
+### Activity over time
 
-<sub>Language distribution reflects repository contents, not proficiency levels.</sub>
-
-</div>
-
-<br>
-
-## ✦ Contribution calendar
-
-<div align="center">
-
-<p>Small steps, recorded one day at a time.</p>
-
-<a href="https://github.com/FatimaSohailCheema19?tab=overview">
-<img width="100%" src="https://ghchart.rshah.org/39d353/FatimaSohailCheema19" alt="Fatima Sohail's daily GitHub contribution calendar — green squares show contribution activity" />
-</a>
-
-<br><br>
-
-<sub>Each square represents a day. Darker green indicates more contributions.</sub>
-
-</div>
-
-<br>
-
-## ✦ Activity over time
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FatimaSohailCheema19&bg_color=0D1117&color=8B949E&line=39D353&point=AFF5B4&area=true&area_color=238636&hide_border=true&custom_title=My%20GitHub%20Activity" alt="GitHub contribution activity over time" />
-
-</div>
-
-<br>
-
-## ✦ Explore my work
-
-The best way to get to know my work is through the projects, notebooks, and documentation in my repositories.
-
-<a href="https://github.com/FatimaSohailCheema19?tab=repositories">
-<img src="https://img.shields.io/badge/BROWSE_MY_REPOSITORIES-238636?style=for-the-badge&logo=github&logoColor=white" alt="Browse my repositories" />
-</a>
-
-<br><br>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FatimaSohailCheema19&bg_color=0D1117&color=8B949E&line=79C0FF&point=C5A5EE&area=true&area_color=1F3B53&hide_border=false&radius=8&custom_title=Contribution%20Activity" alt="GitHub contribution activity over time" />
+</p>
 
 ---
 
-<div align="center">
-
-<br>
-
-**Curious about the question. Careful with the evidence.**
-
-<sub>Fatima Sohail · Data Science Student</sub>
-
-<br><br>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:134E4A,100:39D353&height=100&section=footer" alt="" />
+<p align="center">
+  <b>Have a data project in mind?</b><br>
+  <a href="mailto:fatimaa.cheemaa24@gmail.com">fatimaa.cheemaa24@gmail.com</a>
+</p>
