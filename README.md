@@ -1,84 +1,237 @@
-<p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Fatima Sohail — Data Science student working with machine learning, analytics and visualization" />
+<div align="center">
+
+<h3><code>fatima@github ~ $ whoami</code></h3>
+
+<img src="./fatima-ascii.svg"
+     width="420"
+     alt="Fatima Sohail — animated ASCII portrait" />
+
+<h1>Hi, I'm Fatima Sohail 👋</h1>
+
+<h3>Data Science Student · Machine Learning · Full-Stack Development</h3>
+
+<p>
+Exploring data, understanding models, and building practical applications.
 </p>
 
-<p align="center">
-  <a href="mailto:fatimaa.cheemaa24@gmail.com"><img src="https://img.shields.io/badge/Email-21262D?style=for-the-badge&logo=gmail&logoColor=79C0FF" alt="Email Fatima" /></a>
-  <a href="https://github.com/FatimaSohailCheema19?tab=repositories"><img src="https://img.shields.io/badge/Projects-21262D?style=for-the-badge&logo=github&logoColor=C5A5EE" alt="Browse repositories" /></a>
-</p>
+<a href="mailto:fatimaa.cheemaa24@gmail.com">
+  <img src="https://img.shields.io/badge/Email-21262D?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+</a>
+<a href="https://github.com/FatimaSohailCheema19?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_Projects-21262D?style=for-the-badge&logo=github&logoColor=79C0FF" alt="Explore projects" />
+</a>
 
-### A little about me
+<br><br>
 
-I'm a **BS Data Science student** working on machine learning, data analysis, and applications that put both into practice. My recent projects range from implementing classifiers from scratch to exploring medical image classification and processing taxi-trip data with Spark.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1400&color=79C0FF&center=true&vCenter=true&width=650&lines=Python+%C2%B7+R+%C2%B7+SQL+%C2%B7+Machine+Learning;From+data+exploration+to+working+applications;Open+to+internships+and+collaborations" alt="Python, R, SQL and Machine Learning. Open to internships and collaborations." />
 
-I enjoy understanding how a model works, checking where it struggles, and explaining the results through notebooks, reports, and visualizations. I'm open to **internships and project opportunities** in data science and analytics.
-
-### Selected projects
-
-| Project | What I worked on |
-| :--- | :--- |
-| [**Motor Fault Diagnosis**](https://github.com/FatimaSohailCheema19/Motor-Fault-Diagnosis-Machine-Learning) | From-scratch K-NN, PCA, Logistic Regression, Naive Bayes, and SVM for motor current-signature classification. |
-| [**Cervical Cytology Classification**](https://github.com/FatimaSohailCheema19/EfficientNet-GAT-Fuzzy-Cervical-Cytology) | Research implementation combining EfficientNet-B0, graph attention, and a fuzzy confidence head for five-class classification. |
-| [**NYC Taxi Trip Analytics**](https://github.com/FatimaSohailCheema19/NYC-Taxi-Trip-Analytics-Apache-Spark) | Cleaning and analyzing **2.96 million** trip records with Spark, SQL, window functions, and caching experiments in local mode. |
-| [**Customer Segmentation**](https://github.com/FatimaSohailCheema19/Pakistan-Ecommerce-Customer-Segmentation) | RFM feature engineering and K-Means clustering to study purchasing behavior in Pakistan's e-commerce data. |
-| [**Parallel Fraud Detection**](https://github.com/FatimaSohailCheema19/Hybrid-Parallel-Fraud-Detection) | Comparing serial, OpenMP, CUDA, and hybrid K-NN implementations on **500,000 synthetic transactions**. |
-| [**R Shiny Data Cleaning App**](https://github.com/FatimaSohailCheema19/RShiny_DataCleaning_App) | CSV uploads, column-name cleanup, missing-value filtering, previews, and cleaned-data export. |
-
-<details>
-<summary><b>More projects</b></summary>
-
-- [Pakistan E-commerce Data Visualization](https://github.com/FatimaSohailCheema19/Pakistan-Ecommerce-Data-Visualization)
-- [Movie Data Visualizer · R Shiny](https://github.com/FatimaSohailCheema19/RShiny_Movies_Visualizer)
-- [MediScan AI](https://github.com/FatimaSohailCheema19/mediscan-ai)
-- [RescueSync Emergency Response Platform](https://github.com/FatimaSohailCheema19/RescueSync-Emergency-Response-Platform)
-- [Tour Management Data Warehouse](https://github.com/FatimaSohailCheema19/Tour-Management-Data-Warehouse)
-- [Pizza Accessibility · QGIS](https://github.com/FatimaSohailCheema19/Pizza-Accessibility-Spatial-Analysis-QGIS)
-
-</details>
-
-### Tools I use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,java,postgres,react,git,docker&theme=dark&perline=8" alt="Python, R, C++, Java, PostgreSQL, React, Git and Docker" />
-</p>
-
-| Area | Tools and methods |
-| :--- | :--- |
-| Data analysis | Pandas · NumPy · Matplotlib · Seaborn · R · ggplot2 |
-| Machine learning | Classification · Clustering · PCA · Model evaluation |
-| Deep learning | EfficientNet · Graph Attention Networks · Grad-CAM |
-| Data systems | SQL · PostgreSQL · Apache Spark · Hadoop |
-| Applications | R Shiny · React · Java |
-| Parallel computing | C++ · OpenMP · CUDA |
-
-### GitHub stats
-
-<p align="center">
-  <img width="57%" src="https://github-readme-stats.vercel.app/api?username=FatimaSohailCheema19&show_icons=true&hide_rank=true&bg_color=0D1117&title_color=79C0FF&icon_color=C5A5EE&text_color=C9D1D9&border_color=30363D&border_radius=8" alt="Fatima's GitHub statistics" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaSohailCheema19&layout=compact&langs_count=6&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9&border_color=30363D&border_radius=8" alt="Languages in Fatima's public repositories" />
-</p>
-
-<p align="center">
-  <img width="72%" src="https://streak-stats.demolab.com?user=FatimaSohailCheema19&background=0D1117&border=30363D&stroke=30363D&ring=C5A5EE&fire=79C0FF&currStreakNum=F0F6FC&sideNums=79C0FF&currStreakLabel=C5A5EE&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
-</p>
-
-### Contribution calendar
-
-<p align="center">
-  <a href="https://github.com/FatimaSohailCheema19?tab=overview">
-    <img src="https://ghchart.rshah.org/FatimaSohailCheema19" width="100%" alt="Daily GitHub contributions — green squares indicate contribution activity" />
-  </a>
-</p>
-
-### Activity over time
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FatimaSohailCheema19&bg_color=0D1117&color=8B949E&line=79C0FF&point=C5A5EE&area=true&area_color=1F3B53&hide_border=false&radius=8&custom_title=Contribution%20Activity" alt="GitHub contribution activity over time" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <b>Have a data project in mind?</b><br>
-  <a href="mailto:fatimaa.cheemaa24@gmail.com">fatimaa.cheemaa24@gmail.com</a>
-</p>
+## 🎯 About Me
+
+I'm **Fatima Sohail**, a **BS Data Science student** interested in machine learning, data analytics, and full-stack development.
+
+My projects range from implementing machine learning algorithms from scratch to analyzing large datasets with Spark and building interactive applications. I enjoy understanding what happens behind a model's predictions and presenting the results clearly.
+
+- 🧠 **Machine learning:** classification, clustering, feature engineering, and model evaluation.
+- 📊 **Data analytics:** cleaning datasets, exploring patterns, and creating visualizations.
+- 🔬 **Research projects:** medical image classification and motor fault diagnosis.
+- 💻 **Application development:** interactive R Shiny tools and web projects.
+- 🤝 **Open to:** internships, collaborative projects, and opportunities to apply my skills.
+
+---
+
+## 🛠️ Technical Toolkit
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,r,cpp,java,js,react,postgres,git,docker&theme=dark&perline=9" alt="Python, R, C++, Java, JavaScript, React, PostgreSQL, Git and Docker" />
+
+</div>
+
+<br>
+
+<details open>
+<summary><b>📚 Languages, Libraries & Tools</b></summary>
+
+<br>
+
+| Area | Technologies |
+| :--- | :--- |
+| **Programming** | Python · R · SQL · C++ · Java · JavaScript |
+| **Data Analysis** | Pandas · NumPy · Matplotlib · Seaborn · ggplot2 · dplyr |
+| **Machine Learning** | Scikit-learn · Classification · Clustering · PCA · Feature Engineering |
+| **Deep Learning Projects** | EfficientNet · Graph Attention Networks · Grad-CAM |
+| **Big Data & Databases** | Apache Spark · Hadoop · PostgreSQL · Data Warehousing |
+| **Web & Interactive Apps** | React · HTML · CSS · Bootstrap · R Shiny |
+| **Parallel Computing** | OpenMP · CUDA · CPU–GPU Computing |
+| **Development Tools** | Git · GitHub · Jupyter Notebook · VS Code · Docker |
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+### ⚙️ Motor Fault Diagnosis using Machine Learning
+
+Studying motor health through electrical current signatures, with **from-scratch implementations** of K-NN, PCA, Logistic Regression, Naive Bayes, and SVM.
+
+The project explores binary and multiclass classification, dimensionality reduction, and class-level performance.
+
+**Focus:** `Machine Learning` `Signal Data` `Model Evaluation`
+
+[**View repository →**](https://github.com/FatimaSohailCheema19/Motor-Fault-Diagnosis-Machine-Learning)
+
+---
+
+### 🔬 Cervical Cytology Classification
+
+A research implementation combining **EfficientNet-B0**, a **Region-Graph Attention Network**, and a **Fuzzy Confidence Head** for five-class cervical cell classification.
+
+Includes cross-validation, interpretability, and ablation experiments.
+
+**Focus:** `Deep Learning` `Computer Vision` `Research`
+
+[**View repository →**](https://github.com/FatimaSohailCheema19/EfficientNet-GAT-Fuzzy-Cervical-Cytology)
+
+---
+
+### 🚕 NYC Taxi Trip Analytics
+
+Analysis of **2.96 million taxi-trip records** using Apache Spark in local mode, covering data cleaning, transformations, SQL queries, window functions, and caching experiments.
+
+**Focus:** `Apache Spark` `SQL` `Big Data Analytics`
+
+[**View repository →**](https://github.com/FatimaSohailCheema19/NYC-Taxi-Trip-Analytics-Apache-Spark)
+
+---
+
+### 🛒 Pakistan E-commerce Customer Segmentation
+
+Customer segmentation using **RFM analysis and K-Means clustering**, with preprocessing, feature scaling, and cluster evaluation.
+
+Explores purchasing behavior to distinguish customer groups.
+
+**Focus:** `Customer Analytics` `Feature Engineering` `Clustering`
+
+[**View repository →**](https://github.com/FatimaSohailCheema19/Pakistan-Ecommerce-Customer-Segmentation)
+
+---
+
+### ⚡ Hybrid Parallel Fraud Detection
+
+A K-NN workload comparing **serial CPU, OpenMP, CUDA, and hybrid CPU–GPU implementations** on 500,000 synthetic transactions.
+
+The controlled K = 5 experiment recorded **17.84× compute speedup** and approximately **2.17× end-to-end speedup** for the hybrid implementation.
+
+**Focus:** `C++` `OpenMP` `CUDA` `Performance Analysis`
+
+[**View repository →**](https://github.com/FatimaSohailCheema19/Hybrid-Parallel-Fraud-Detection)
+
+---
+
+<details>
+<summary><b>📂 More Projects — Applications, Analytics & Data Systems</b></summary>
+
+<br>
+
+| Project | Description |
+| :--- | :--- |
+| [**R Shiny Data Cleaning App**](https://github.com/FatimaSohailCheema19/RShiny_DataCleaning_App) | CSV upload, data-cleaning controls, previews, and cleaned-data export. |
+| [**Movie Data Visualizer**](https://github.com/FatimaSohailCheema19/RShiny_Movies_Visualizer) | Interactive scatter plots with variable selection and customizable plot controls. |
+| [**Pakistan E-commerce Visualization**](https://github.com/FatimaSohailCheema19/Pakistan-Ecommerce-Data-Visualization) | Exploratory analysis and visualizations using Python. |
+| [**MediScan AI**](https://github.com/FatimaSohailCheema19/mediscan-ai) | A medical scan classification web application project. |
+| [**RescueSync**](https://github.com/FatimaSohailCheema19/RescueSync-Emergency-Response-Platform) | An emergency response platform with web and mobile applications. |
+| [**Tour Management Data Warehouse**](https://github.com/FatimaSohailCheema19/Tour-Management-Data-Warehouse) | PostgreSQL data warehouse design with dimensional schemas. |
+| [**Pizza Accessibility Analysis**](https://github.com/FatimaSohailCheema19/Pizza-Accessibility-Spatial-Analysis-QGIS) | Spatial accessibility analysis using QGIS. |
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="56%" src="https://github-readme-stats.vercel.app/api?username=FatimaSohailCheema19&show_icons=true&hide_rank=true&theme=tokyonight&bg_color=0D1117&title_color=79C0FF&icon_color=BB9AF7&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="Fatima Sohail's GitHub statistics" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaSohailCheema19&layout=compact&langs_count=6&theme=tokyonight&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="Languages in public repositories" />
+
+<br><br>
+
+<img width="75%" src="https://streak-stats.demolab.com/?user=FatimaSohailCheema19&theme=tokyonight&background=0D1117&border=30363D&ring=79C0FF&fire=BB9AF7&currStreakNum=C9D1D9&sideNums=79C0FF&currStreakLabel=BB9AF7&sideLabels=C9D1D9&dates=8B949E" alt="Fatima Sohail's GitHub contribution streak" />
+
+<br><br>
+
+<sub>Language statistics describe repository contents, not proficiency levels.</sub>
+
+</div>
+
+---
+
+## 🟩 Contribution Calendar
+
+<div align="center">
+
+<a href="https://github.com/FatimaSohailCheema19?tab=overview">
+  <img src="https://ghchart.rshah.org/FatimaSohailCheema19" width="100%" alt="Daily GitHub contribution calendar" />
+</a>
+
+<br><br>
+
+<sub>Each square represents a day. Green intensity reflects contribution activity.</sub>
+
+</div>
+
+---
+
+## 📈 Activity Over Time
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FatimaSohailCheema19&bg_color=0D1117&color=8B949E&line=79C0FF&point=BB9AF7&area=true&area_color=1F3B53&hide_border=true&custom_title=Fatima%27s%20Contribution%20Activity" alt="GitHub contribution activity over time" />
+
+</div>
+
+---
+
+## 🎓 Learning & Growth
+
+I'm continuing to develop my understanding of:
+
+- **Model evaluation:** looking beyond accuracy to understand errors and class-level performance.
+- **Deep learning:** exploring image classification and model interpretability.
+- **Data engineering:** working with Spark, SQL, and data warehouse design.
+- **Application development:** connecting analytical work with useful interfaces.
+- **Performance:** understanding the trade-offs between CPU, GPU, and hybrid execution.
+
+---
+
+## 🤝 Open to Opportunities
+
+I'm interested in **data science and machine learning internships**, **analytics projects**, and **web development collaborations**.
+
+If you're working on something related, I'd be happy to connect.
+
+<div align="center">
+
+### 📫 Connect With Me
+
+<a href="mailto:fatimaa.cheemaa24@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Fatima" />
+</a>
+<a href="https://github.com/FatimaSohailCheema19">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Fatima on GitHub" />
+</a>
+<a href="https://github.com/FatimaSohailCheema19?tab=repositories">
+  <img src="https://img.shields.io/badge/My_Projects-7AA2F7?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Browse my projects" />
+</a>
+
+<br><br>
+
+**Thanks for exploring my work.**
+
+</div>
